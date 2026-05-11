@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 **Currently working on:** **NativeCare AI** (specialized AI-driven care solutions) and **Sb_Ecom**
+- 🔭 **Currently working on:** **NativeCare AI** (specialized AI-driven care solutions) and **EnterpriseFlow** (microservices monorepo)
 - 🚀 **Recently completed:** **SearchEngineAI** (AI-Powered Research System utilizing LangChain)
 - 🌱 **Currently learning:** Modern **AI Engineering** concepts, Large Language Models (**LLMs**), and multi-agent systems
 - 💬 **Ask me about:** **Java**, **Spring Boot**, **Spring Security**, and **React JS**
@@ -39,14 +39,14 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MdSahilHaider96&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Sahil's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdSahilHaider96&theme=radical&hide_border=true&background=0D1117" alt="Sahil's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MdSahilHaider96&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&v=1" alt="Sahil's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdSahilHaider96&theme=radical&hide_border=true&background=0D1117" alt="Sahil's GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdSahilHaider96&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdSahilHaider96&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&v=1" alt="Top Languages" />
 </div>
 
 ---
