@@ -37,21 +37,15 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 🚀 Featured Projects
 
-<div align="center">
+Here is a look at some of the complex systems and applications I have been building recently:
 
-[![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MdSahilHaider96&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/MdSahilHaider96)
-[![Sahil's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MdSahilHaider96&theme=radical&hide_border=true&background=0D1117)](https://github.com/MdSahilHaider96)
-
-</div>
-
-<br>
-
-<div align="center">
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MdSahilHaider96&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/MdSahilHaider96)
-
-</div>
+| Project | Description | Tech Stack Highlights |
+| :--- | :--- | :--- |
+| 🏥 **NativeCare AI** | Specialized AI-driven care solutions designed for advanced, localized impact. *(In Progress)* | `LangChain`, `LLMs`, `Python` |
+| 🤖 **SearchEngineAI** | Multi-agent AI research system for automated data retrieval and comprehensive report generation. | `LangChain`, `Tavily`, `BeautifulSoup` |
+| 👓 **EyeLix** | Scalable spectacle-purchasing e-commerce platform bridging a robust backend with a dynamic frontend. | `Java`, `Spring Boot`, `React JS`, `JWT` |
+| 🛒 **Sb_Ecom** | Robust backend e-commerce APIs orchestrating product catalogs, cart operations, and order workflows. | `Java`, `Spring Boot`, `PostgreSQL` |
 
 ---
