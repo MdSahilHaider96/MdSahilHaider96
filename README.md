@@ -1,57 +1,37 @@
-# 🌌 Full Stack Engineering // [Your Name]
+# ⚡ [Your Name] | Full Stack Systems Architect
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=thicker&color=00d2ff&height=200&section=header&text=SOFTWARE%20ENGINEER&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Architecting%20Scalable%20Systems&descAlignY=60&descSize=25" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=SYSTEM%20INITIALIZED&fontSize=60&animation=twinkling&fontAlignY=40&desc=Java%20%E2%80%A2%20Spring%20%E2%80%A2%20React%20%E2%80%A2%20AI&descAlignY=65&descSize=20" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00d2ff?style=for-the-badge&logo=statuspage&logoColor=white" />
+  <img src="https://img.shields.io/badge/LOCATION-KOLKATA-white?style=for-the-badge&logo=googlemaps&logoColor=red" />
+  <img src="https://img.shields.io/badge/ROLE-SOFTWARE_ENGINEER-00d2ff?style=for-the-badge" />
+</p>
+
+---
+
+### 🌐 Neural Network [Core Stack]
+
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,react,tailwind,postgres,docker,aws,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,docker,aws,react,tailwind,vite,py,git,linux&theme=dark&perline=6" />
   </a>
 </p>
 
 ---
 
-### ⚡ System Status: Online
-I am a **Full Stack Java Developer** specializing in microservices architecture and cloud-native solutions. Currently engineering enterprise-grade applications at **Oxford Infotech**, I focus on building resilient backend systems and fluid, responsive frontends.
+### 📡 Transmission Data
 
-- 🔭 **Current Focus:** Advanced RAG (Retrieval-Augmented Generation) & AI Engineering.
-- 🏗️ **Core Stack:** Spring Boot, Microservices, React, and Tailwind CSS.
-- 🏏 **Off-duty:** Fast bowling on the pitch or simulating matches in Cricket 26.
-
----
-
-### 🚀 Featured Deployments
-
-#### 🛠️ EnterpriseFlow
-**Architecture:** Microservices Monorepo
-> A distributed system featuring independent services for authentication, product cataloging, and user management. Built for high scalability and enterprise-level reliability.
-
-#### 👓 EyeLix
-**Domain:** E-commerce (Eyewear)
-> A specialized spectacle-purchasing platform. Features a secure catalog service, robust user authentication, and a streamlined checkout experience.
-
----
-
-### 🛠️ Tech Stack Matrix
-
-| Layer | Technologies |
-| :--- | :--- |
-| **Backend** | `Java` `Spring Boot` `Spring Security` `Microservices` |
-| **Frontend** | `React` `Tailwind CSS (v4)` `Vite` |
-| **Data & Cloud** | `PostgreSQL` `MySQL` `Oracle` `AWS` `Docker` |
-| **AI & Tools** | `LangChain` `Ollama` `Llama 3` `Git` |
-
----
-
-### 🛰️ System Architecture (EnterpriseFlow)
-
-```mermaid
-graph LR
-  A[API Gateway] --> B[Auth Service]
-  A --> C[Product Service]
-  A --> D[User Service]
-  style A fill:#00d2ff,stroke:#333,stroke-width:2px,color:#000
-  style B fill:#121212,stroke:#00d2ff,stroke-width:1px
-  style C fill:#121212,stroke:#00d2ff,stroke-width:1px
-  style D fill:#121212,stroke:#00d2ff,stroke-width:1px
+```yaml
+assistant:
+  current_role: "Junior Software Developer @ Oxford Infotech"
+  specialization: "Microservices & Distributed Systems"
+  focus_areas:
+    - "High-Performance Backend Engineering"
+    - "AI Integration (RAG / LLMs)"
+    - "Cloud-Native Scalability"
+  hobbies:
+    - "Fast Bowling [Cricket]"
+    - "High-End System Optimization"
