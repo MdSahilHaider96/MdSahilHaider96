@@ -1,37 +1,54 @@
-# ⚡ [Your Name] | Full Stack Systems Architect
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=SYSTEM%20INITIALIZED&fontSize=60&animation=twinkling&fontAlignY=40&desc=Java%20%E2%80%A2%20Spring%20%E2%80%A2%20React%20%E2%80%A2%20AI&descAlignY=65&descSize=20" />
-</p>
+# Hello there! I'm Md Sahil Haider 👋
 
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00d2ff?style=for-the-badge&logo=statuspage&logoColor=white" />
-  <img src="https://img.shields.io/badge/LOCATION-KOLKATA-white?style=for-the-badge&logo=googlemaps&logoColor=red" />
-  <img src="https://img.shields.io/badge/ROLE-SOFTWARE_ENGINEER-00d2ff?style=for-the-badge" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=26&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Full+Stack+Java+Developer;Architecting+Scalable+Microservices;AI+Engineering+Enthusiast" alt="Typing SVG" /></a>
+
+*A passionate developer from Kolkata, bridging robust backends with dynamic frontends.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sahil-haider-3bb42b249)
+[![Portfolio](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdsahilhaider96@gmail.com)
+
+</div>
 
 ---
 
-### 🌐 Neural Network [Core Stack]
+### 👨‍💻 About Me
 
-<p align="center">
+> **Full Stack Java Developer** with 3+ years of experience designing secure, high-performance microservices and robust REST APIs.
+
+- 🔭 **Currently working on:** **NativeCare AI** (specialized AI-driven care solutions)
+- 🚀 **Currently employed at:** **Oxford Infotech**, elevating system reliability and automating deployments.
+- 🌱 **Currently learning:** Modern AI Engineering concepts, Large Language Models (**LLMs**), and building multi-agent systems.
+- 💬 **Ask me about:** **Java**, **Spring Boot**, **Spring Security**, **JWT**, and **React JS**.
+- ⚡ **Fun fact:** I am a passionate **cricket all-rounder**—I love the thrill of fast bowling and the technique of batting! 
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,docker,aws,react,tailwind,vite,py,git,linux&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,spring,js,react,html,css,python,mysql,postgres,mongodb,aws,git,github,bash,ansible,postman&theme=dark&perline=16" alt="Tech Stack" />
   </a>
-</p>
+  <br>
+</div>
+
+<br>
 
 ---
 
-### 📡 Transmission Data
+### 🚀 Featured Projects
 
-```yaml
-assistant:
-  current_role: "Junior Software Developer @ Oxford Infotech"
-  specialization: "Microservices & Distributed Systems"
-  focus_areas:
-    - "High-Performance Backend Engineering"
-    - "AI Integration (RAG / LLMs)"
-    - "Cloud-Native Scalability"
-  hobbies:
-    - "Fast Bowling [Cricket]"
-    - "High-End System Optimization"
+Here is a look at the scalable architectures and AI systems I have been engineering:
+
+| Project | Description | Tech Stack Highlights |
+| :--- | :--- | :--- |
+| 🏥 **NativeCare AI** | Specialized AI-driven care solutions designed for advanced, localized impact. *(In Progress)* | `LangChain`, `LLMs`, `Python` |
+| 🤖 **SearchEngineAI** | Multi-agent AI research system utilizing LangChain to automate complex data retrieval and comprehensive report generation. | `LangChain`, `Tavily`, `BeautifulSoup` |
+| 👓 **EyeLix** | Scalable e-commerce platform bridging a powerful Spring Boot backend with a dynamic React JS frontend. | `Java`, `Spring Boot`, `React JS`, `JWT` |
+| 🛒 **Sb_Ecom** | Robust backend e-commerce APIs orchestrating product catalogs, cart operations, and end-to-end order workflows. | `Java`, `Spring Boot`, `PostgreSQL` |
+| ✍️ **PDF Signing System** | Secure digital signing system utilizing Java for enterprise-grade document validation and cryptographic verification. | `Java`, `Cryptography` |
+
+---
